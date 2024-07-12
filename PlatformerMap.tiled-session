@@ -1,0 +1,97 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Platformer code/Maps/lvl6.json",
+    "expandedProjectPaths": [
+        "Platformer code",
+        "Platformer code/Maps",
+        "."
+    ],
+    "fileStates": {
+        "Platformer code/Maps/lvl1.json": {
+            "scale": 0.116,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3193.965517241379,
+                "y": 1228.448275862069
+            }
+        },
+        "Platformer code/Maps/lvl2.json": {
+            "scale": 0.1131,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 4478.337754199823,
+                "y": 1286.4721485411142
+            }
+        },
+        "Platformer code/Maps/lvl3.json": {
+            "scale": 0.1767,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 3839.8415393322016,
+                "y": 1281.8336162988114
+            }
+        },
+        "Platformer code/Maps/lvl4.json": {
+            "scale": 0.1054,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 3837.7609108159395,
+                "y": 1285.5787476280836
+            }
+        },
+        "Platformer code/Maps/lvl5.json": {
+            "scale": 0.278,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 3839.928057553957,
+                "y": 1278.7769784172663
+            }
+        },
+        "Platformer code/Maps/lvl6.json": {
+            "scale": 0.1201,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 2310.5745212323063,
+                "y": 1711.0741049125727
+            }
+        },
+        "lvl_1.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 200,
+    "last.exportedFilePath": "/Users/User2/Documents/Python/Projects/Platformer/Platformer code/Maps",
+    "last.imagePath": "/Users/User2/Documents/Python/Projects/Platformer/Platformer code/Assets/Tiles1",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.renderOrder": null,
+    "map.tileHeight": 128,
+    "map.tileWidth": 128,
+    "map.width": 80,
+    "openFiles": [
+        "Platformer code/Maps/lvl1.json",
+        "Platformer code/Maps/lvl2.json",
+        "Platformer code/Maps/lvl3.json",
+        "Platformer code/Maps/lvl4.json",
+        "Platformer code/Maps/lvl5.json",
+        "Platformer code/Maps/lvl6.json",
+        "lvl_1.tsx"
+    ],
+    "project": "PlatformerMap.tiled-project",
+    "recentFiles": [
+        "Platformer code/Maps/lvl1.json",
+        "Platformer code/Maps/lvl2.json",
+        "Platformer code/Maps/lvl3.json",
+        "Platformer code/Maps/lvl4.json",
+        "Platformer code/Maps/lvl5.json",
+        "lvl_1.tsx",
+        "Platformer code/Maps/lvl6.json"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
